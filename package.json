@@ -1,0 +1,14 @@
+{
+  "name": "yld-code-challenge",
+  "version": "1.0.0",
+  "description": "YDL Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michael Alves (@michaelpaco)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
